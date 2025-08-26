@@ -1,1 +1,1 @@
-# GPT2-FSDP
+# GPT2-ZeRO2
